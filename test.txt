@@ -1,0 +1,9 @@
+git hub는 remote<원격컴퓨터>임
+1. Repositories 를 만듦
+2. git<로컬  컴퓨터> 
+3. command에서 git clone 레포지토리 주소
+4. 파일 넣음
+5. git add .
+   git commit -m "initial commit"
+  git push origin main
+
